@@ -4,7 +4,7 @@
 
 -Atualmente estou em BA - Feira de Santana.
 
--Pai de um rei.
+
 
 <div align="center">
   <a href="https://github.com/Joandson">
