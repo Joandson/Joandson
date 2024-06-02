@@ -1,8 +1,7 @@
 ## 'Hello Word', dando um Staart na vida em tecnologia, vem comigo nessa 🕹💻🚀👶💙
 ##
--Estutante das novas tecnologias, psicologia e ficção científica.
+-Estutante das novas tecnologias.
 
--Atualmente estou em BA - Feira de Santana.
 
 
 
