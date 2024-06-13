@@ -21,6 +21,6 @@ Sou um estudante apaixonado por novas tecnologias. Venha comigo nessa jornada de
 </div>
 
 ### Projetos em Destaque:
-- [Projeto 1](https://github.com/Joandson/projeto1): Descrição breve do projeto 1.
-- [Projeto 2](https://github.com/Joandson/projeto2): Descrição breve do projeto 2.
-- [Projeto 3](https://github.com/Joandson/projeto3): Descrição breve do projeto 3.
+- [Projeto 1(demostrativo de site)](https://github.com/Joandson/Projeto-1.git): Descrição breve do projeto 1.
+- [Projeto 2( teste de comandos)](https://github.com/Joandson/Teste-VScode.git): Descrição breve do projeto 2.
+- [Projeto 3(basico)](https://github.com/Joandson/Projeto-completo-HTML-praticar.git): Descrição breve do projeto 3.
