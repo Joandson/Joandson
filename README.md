@@ -3,12 +3,6 @@
 
 Sou um estudante apaixonado por novas tecnologias. Venha comigo nessa jornada de aprendizado e descobertas!
 
-<div align="center">
-  <a href="https://github.com/Joandson">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joandson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joandson&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,9 +24,3 @@ Sou um estudante apaixonado por novas tecnologias. Venha comigo nessa jornada de
 - [Projeto 1](https://github.com/Joandson/projeto1): Descrição breve do projeto 1.
 - [Projeto 2](https://github.com/Joandson/projeto2): Descrição breve do projeto 2.
 - [Projeto 3](https://github.com/Joandson/projeto3): Descrição breve do projeto 3.
-
-### Estatísticas do GitHub:
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joandson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joandson&layout=compact&langs_count=7&theme=dracula"/>
-</div>
