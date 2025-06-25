@@ -1,7 +1,7 @@
 ## Olá, Mundo! 👋
-### Dando um Start na Vida em Tecnologia 🚀💻🕹👶💙
+### 🚀 Apaixonado por tecnologia e sempre em busca de aprender mais sobre o universo da programação. Estou construindo minhas habilidades como DEV e quero colaborar em projetos open source, trocar ideias e crescer junto com a comunidade!
 
-Sou um estudante apaixonado por novas tecnologias. Venha comigo nessa jornada de aprendizado e descobertas!
+Olá! Sou Joandson Israel, um entusiasta da tecnologia e desenvolvedor em constante evolução. Atualmente, estou focado em aprimorar minhas habilidades em práticas de desenvolvimento modernas como CI/CD e TDD, construindo aplicações robustas e escaláveis.
 
 ### Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
@@ -14,11 +14,12 @@ Sou um estudante apaixonado por novas tecnologias. Venha comigo nessa jornada de
 
 ### Conecte-se Comigo:
 <div> 
-  <a href="https://www.twitch.tv/joandson_israel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/Wee3WZap" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joandson-israel-cortez-5800251a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://img.shields.io/badge/Discord-israel_19-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   <a href="mailto:joandsonisraelr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joandson-israelr-5800251a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### Projetos em Destaque:
-- [Projeto 1(Comunidade de informação especializada)](https://github.com/Joandson/clone-tabnews): Descrição breve do projeto 1.
+### 🚀 Projeto em Destaque
+
+- **[DevNews Hub: Plataforma de Conteúdo com CI/CD](https://github.com/Joandson/clone-tabnews)**
+  - Uma recriação da plataforma TabNews com foco total em um ciclo de desenvolvimento moderno e automatizado. Neste projeto, implementei um pipeline de **Integração Contínua (CI)** para rodar testes a cada alteração e **Deploy Contínuo (CD)** para publicar a aplicação em produção de forma automática e segura. Todo o código foi desenvolvido seguindo a metodologia **TDD (Test-Driven Development)**, garantindo mais qualidade, robustez e manutenibilidade para o projeto.
