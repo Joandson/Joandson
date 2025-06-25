@@ -4,11 +4,7 @@
 
 Olá! 👋 Sou um desenvolvedor focado em construir soluções robustas e escaláveis, sempre em busca de aprender mais sobre o universo da programação. Minha jornada é marcada pela busca contínua por conhecimento em práticas como **CI/CD** e **TDD**. Acredito no poder da comunidade e estou sempre aberto para **colaborar em projetos open source**, trocar ideias e crescer junto!
 
-<div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joandson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joandson&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
+
 
 ### 💻 Tecnologias e Ferramentas
 
