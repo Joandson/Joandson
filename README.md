@@ -15,7 +15,7 @@ Olá! Sou Joandson Israel, um entusiasta da tecnologia e desenvolvedor em consta
 ### Conecte-se Comigo:
 <div> 
   <a href="https://www.linkedin.com/in/joandson-israel-cortez-5800251a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img src="https://img.shields.io/badge/Discord-israel_19-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-Israel#5063-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   <a href="mailto:joandsonisraelr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
